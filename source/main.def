@@ -1,0 +1,4 @@
+LIBRARY	"AutoInstaller"
+EXPORTS
+	Supports
+	Load
